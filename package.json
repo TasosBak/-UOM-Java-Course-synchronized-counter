@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "javac Main.java"
+    "start": "javac Main.java && java Main"
   },
   "keywords": [],
   "author": "",
